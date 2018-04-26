@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Will's ProtoType Scene.unity
+  isLoaded: 1
+  isActive: 1
