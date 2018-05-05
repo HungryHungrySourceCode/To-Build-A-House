@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Will's ProtoType Scene.unity
+- path: Assets/Mood.unity
   isLoaded: 1
   isActive: 1
